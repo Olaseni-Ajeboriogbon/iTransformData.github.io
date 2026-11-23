@@ -3911,7 +3911,8 @@ input, select, textarea {
 	
 }
 
-.zone-one {
+.zone-one,.zone-two ,.zone-three ,.zone-four,.zone-five ,
+.zone-six,.zone-seven,.zone-eight {
 	display: flex;
 	margin-bottom: 2em;
 	background-color: #d6d0d0;
@@ -3919,7 +3920,7 @@ input, select, textarea {
 	border-radius: 8px;
 }
 
-#img-div {
+.image-fit {
 	width: 300px;
 	height: 300px;
 	overflow: hidden;
@@ -3927,13 +3928,15 @@ input, select, textarea {
 	background-color: #90e4e4;
 	
 }
-#img-div img {
+.image-fit img {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
 }
 .project-card-content {
-	width:300px;
+	width: 400px;
+	margin-left: 2em;
+	padding: 1em;
 
 }
 .project-buttons {
