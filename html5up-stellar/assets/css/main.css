@@ -3915,7 +3915,7 @@ input, select, textarea {
 .zone-six,.zone-seven,.zone-eight {
 	display: flex;
 	margin-bottom: 2em;
-	background-color: #d6d0d0;
+	background-color: #f5f5f5;
 	padding: 1em;
 	border-radius: 8px;
 }
@@ -3925,7 +3925,7 @@ input, select, textarea {
 	height: 300px;
 	overflow: hidden;
 	border-radius: 8px;
-	background-color: #90e4e4;
+	background-color: #14243A;
 	
 }
 .image-fit img {
