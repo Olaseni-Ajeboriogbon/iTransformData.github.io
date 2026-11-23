@@ -3910,3 +3910,33 @@ input, select, textarea {
 	margin: 0 0;
 	
 }
+
+.zone-one {
+	display: flex;
+	margin-bottom: 2em;
+	background-color: #d6d0d0;
+	padding: 1em;
+	border-radius: 8px;
+}
+
+#img-div {
+	width: 300px;
+	height: 300px;
+	overflow: hidden;
+	border-radius: 8px;
+	background-color: #90e4e4;
+	
+}
+#img-div img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.project-card-content {
+	width:300px;
+
+}
+.project-buttons {
+	display:inline-block;
+
+}
