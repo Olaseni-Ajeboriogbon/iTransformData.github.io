@@ -4023,3 +4023,8 @@ input, select, textarea {
 		padding: 0;
 	}
 }
+.project-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
